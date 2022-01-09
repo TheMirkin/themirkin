@@ -1,6 +1,8 @@
 ### Hi there 👋
 # I love to code and improve myself
 Everything grows when shared
+security researcher
+
 <br />
 Feel free to try my scripts 
 
