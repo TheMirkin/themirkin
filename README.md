@@ -21,5 +21,5 @@ Feel free to try my scripts
   
 - 📫 How to reach me **themirkin@hotmail.com**
 <a href="https://twitter.com/themirkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="themirkin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCnkIwxbq6ZQ8ljF30GqOtag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="themirkin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnkIwxbq6ZQ8ljF30GqOtag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="themirkin" height="30" width="40" /></a>
 </p>
